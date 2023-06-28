@@ -60,3 +60,17 @@ h1 {
   text-align: center;
   display: inline-block;
 }
+.flex-container- {
+  display: flex;
+  background-color: beige;
+  text-align: center;
+  display: inline-block;
+}
+.flex-container- > div {
+  background-color: beige;
+  margin: 5px;
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+}
