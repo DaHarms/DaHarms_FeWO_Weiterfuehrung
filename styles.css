@@ -47,3 +47,6 @@ h1 {
 .container {
   flex-direction: column
 }
+.container_bild{
+  justify-content: space-around;
+}
