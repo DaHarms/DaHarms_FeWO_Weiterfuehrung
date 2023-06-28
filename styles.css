@@ -45,8 +45,8 @@ h1 {
   font-size: 1.5rem;
 }
 .container {
-  flex-direction: column
+  flex-direction: space-around;
 }
 .container_bild{
-  justify-content: space-around;
+  flex direction: space-around;
 }
